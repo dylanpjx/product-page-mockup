@@ -1,4 +1,4 @@
-# spotify-web-clone
+# product-page-mockup
 
 Music application product page front end clone using HTML + CSS only. This is just a mock up and has no function.
 
