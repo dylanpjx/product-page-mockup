@@ -11,17 +11,21 @@ The full site screenshot can be seen at the bottom of this README.
 ### Jumbotron that takes up 1VH to draw the reader in.
 ![Jumbotron](/screenshots/jumbotron.png)
 
+
 ### Interactive icons that have same accent colours as the page
 ![Icons](/screenshots/icons.gif)
+
 
 ### Carousel with easy to read user reviews
 ![Carousel](/screenshots/carousel.png)
 
+
 ### Bootstrap grid system allowing for mobile responsiveness
 **PC:**
 ![Pricing_full](/screenshots/pricing.png) 
-**Mobile:**
+**Mobile (To fit narrow screen):**
 ![Pricing_mobile](/screenshots/pricing_mobile.png)
+
 
 # Full site screenshot
 ![Full_page](/screenshots/full.png)
