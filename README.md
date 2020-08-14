@@ -18,9 +18,9 @@ The full site screenshot can be seen at the bottom of this README.
 ![Carousel](/screenshots/carousel.png)
 
 ### Bootstrap grid system allowing for mobile responsiveness
-PC:
+**PC:**
 ![Pricing_full](/screenshots/pricing.png) 
-Mobile:
+**Mobile:**
 ![Pricing_mobile](/screenshots/pricing_mobile.png)
 
 # Full site screenshot
